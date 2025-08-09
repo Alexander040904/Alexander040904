@@ -31,9 +31,11 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexander040904&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander040904&layout=compact&theme=tokyonight)
+## 🚧 Proyecto en desarrollo
+**Plataforma de atención veterinaria remota**  
+Aplicación desarrollada con **Laravel 11 + Laravel Reverb** como backend y **React** como frontend, implementando **WebSockets** para comunicación en tiempo real.
+
+El objetivo es permitir que veterinarios atiendan **consultas urgentes** de forma remota, gestionen su perfil, reciban **notificaciones instantáneas** de emergencias y se comuniquen vía mensajería antes de que el caso expire.
 
 ---
 
